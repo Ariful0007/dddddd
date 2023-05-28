@@ -505,6 +505,7 @@
                     ></EditText>
                 //25
                 <EditText
+                    android:textAlignment="center"
                     android:layout_marginTop="10dp"
                     android:id="@+id/mysigne"
 
@@ -632,6 +633,7 @@
                     android:minHeight="50dp"
                     ></EditText>
                 <EditText
+                    android:textAlignment="center"
                     android:id="@+id/namesecond"
                     android:layout_marginTop="10dp"
                     android:enabled="false"
@@ -656,6 +658,7 @@
                     ></EditText>
                 //sig
                 <EditText
+                    android:textAlignment="center"
                     android:id="@+id/onomoshonsig"
                     android:layout_marginTop="10dp"
                     android:enabled="true"
@@ -675,6 +678,7 @@
                     ></EditText>
                 ///2
                 <EditText
+                    android:textAlignment="center"
                     android:id="@+id/date2"
                     android:layout_marginTop="10dp"
                     android:enabled="true"
@@ -695,6 +699,7 @@
                     ></EditText>
                 ///3
                 <EditText
+                    android:textAlignment="center"
                     android:layout_marginTop="10dp"
                     android:enabled="false"
                     android:id="@+id/idNumber"
@@ -714,6 +719,7 @@
                     ></EditText>
                 ///4
                 <EditText
+                    android:textAlignment="center"
                     android:layout_marginTop="10dp"
                     android:enabled="true"
                     android:id="@+id/takakka"
@@ -733,6 +739,7 @@
                     ></EditText>
                 //5
                 <EditText
+                    android:textAlignment="center"
                     android:layout_marginTop="10dp"
                     android:enabled="true"
                     android:id="@+id/grohonsa"
@@ -753,6 +760,7 @@
 
 
                 <Button
+                    android:textAlignment="center"
                     android:minWidth="250dp"
 
 
